@@ -2,34 +2,34 @@
 
 
 <a href="https://twitter.com/">
-  <img alt="Rajeev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
 <a href="https://linkedin.com/in/">
-  <img alt="Rajeev's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> &nbsp;
 <a href="https://stackoverflow.com/">
-  <img alt="Rajeev's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a> &nbsp;
 <a href="https://www.facebook.com/">
-  <img alt="Rajeev's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>  &nbsp;
 <a href="https://instagram.com/">
-  <img alt="Rajeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on a social app to connect strangers over chat/video/voice calls, and host fun live streams.
+- 🔭 I’m  a security engineer, mainly responsible for penetration testing and vulnerability scanning of the company's web security company's website applications. I am currently working on cloud native security.
 - 🌱 I’m currently learning Go and kubenetes.
-- 💬 Ask me about Python, Golang, System design or any tech related stuff.
+- 💬 Ask me about Enterprise Security, Penetration test, Vulnerability scan, Emergency response, Risk assessment.
 - 😄 Pronouns: He/His
-
-[![Twitter follow @calliCoder](https://img.shields.io/twitter/follow/callicoder?style=social)](https://twitter.com/callicoder) &nbsp;
-[![Linkedin follow @callicoder](https://img.shields.io/badge/-callicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/callicoder/)](https://www.linkedin.com/in/callicoder/) &nbsp;
-[![Reddit follow @callicoder](https://img.shields.io/reddit/user-karma/link/callicoder?label=callicoder&style=social)](https://www.reddit.com/user/callicoder) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-callicoder.com-brightgreen)](https://www.callicoder.com)
-
+<!--
+[![Twitter follow @](https://img.shields.io/twitter/)](https://twitter.com/) &nbsp;
+[![Linkedin follow @](https://img.shields.io/)](https://www.linkedin.com/) &nbsp;
+[![Reddit follow @](https://img.shields.io/reddit/)](https://www.reddit.com/) &nbsp;
+[![Blog](https://img.shields.io/)](https://www.willie-lin.tk)
+-->
 <!--
 **willie-lin/willie-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
