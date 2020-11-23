@@ -22,7 +22,7 @@
 
 - 🔭 I’m a security engineer, mainly responsible for network security work, as well as penetration testing and vulnerability scanning of website applications. I am currently working on cloud native security.
 Currently I am currently learning Go and kubenetes.
-- 🌱 I’m currently learning Go and kubenetes.
+- 🌱 I’m currently learning Golang and kubenetes.
 - 💬 Ask me about Enterprise Security, Penetration test, Vulnerability scan, Emergency response, Risk assessment.
 - 😄 Pronouns: He/His
 <!--
