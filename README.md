@@ -1,8 +1,5 @@
-
- <img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/willie-lin/willie-lin/main/logo.gif" />
+<img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/willie-lin/willie-lin/main/logo.gif" />
 ## Hey there, I'm Willie Lin! 👋
-
-
 <a href="https://twitter.com/">
   <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
