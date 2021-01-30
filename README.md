@@ -1,3 +1,5 @@
+
+ <img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/willie-lin/willie-lin/main/logo.gif" />
 ## Hey there, I'm Willie Lin! 👋
 
 
