@@ -1,23 +1,6 @@
 <img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/willie-lin/willie-lin/main/logo.gif" />
-## Hey there, I'm Willie Lin! 👋
-<a href="https://twitter.com/">
-  <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> &nbsp;
-<a href="https://linkedin.com/in/">
-  <img alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> &nbsp;
-<a href="https://stackoverflow.com/">
-  <img alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a> &nbsp;
-<a href="https://www.facebook.com/">
-  <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  &nbsp;
-<a href="https://instagram.com/">
-  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
-<br/>
-<br/>
+###  Hey there, I'm Willie Lin! 👋
 
 - 🔭 I’m a security engineer, mainly responsible for network security work, as well as penetration testing and vulnerability scanning of website applications. I am currently working on cloud native security.
 Currently I am currently learning Go and kubenetes.
@@ -46,10 +29,17 @@ Here are some ideas to get you started:
 -->
 
 **Languages and Tools:**  
-
-<a href="https://github.com/willie-lin">
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/willie-lin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
 </a>
+    </td>
+    <td>
 <a href="https://github.com/willie-lin">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willie-lin&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="willie-lin github stats"/>
 </a>
+    </td>
+    </tr>
+  </table>
