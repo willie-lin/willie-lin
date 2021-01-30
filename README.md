@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 <table border="0">
-  <tr>
+  <td>
 
       <a href="https://github.com/willie-lin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
@@ -63,5 +63,5 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willie-lin&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="willie-lin github stats"/>
 </a>
     
-    </tr>
+    </td>
   </table>
