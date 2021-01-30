@@ -1,6 +1,28 @@
 <img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/willie-lin/willie-lin/main/logo.gif" />
 
-###  Hey there, I'm Willie Lin! 👋
+##  Hey there, I'm Willie Lin! 👋
+
+<a href="https://twitter.com/callicoder">
+  <img alt="Rajeev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> &nbsp;
+<a href="https://linkedin.com/in/callicoder">
+  <img alt="Rajeev's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> &nbsp;
+<a href="https://stackoverflow.com/users/4837440/rajeev-kumar-singh">
+  <img alt="Rajeev's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a> &nbsp;
+<a href="https://www.reddit.com/user/callicoder">
+  <img alt="Rajeev's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a> &nbsp;
+<a href="https://www.facebook.com/rajeevhub/">
+  <img alt="Rajeev's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>  &nbsp;
+<a href="https://instagram.com/rajeevhub/">
+  <img alt="Rajeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
+
 
 - 🔭 I’m a security engineer, mainly responsible for network security work, as well as penetration testing and vulnerability scanning of website applications. I am currently working on cloud native security.
 Currently I am currently learning Go and kubenetes.
