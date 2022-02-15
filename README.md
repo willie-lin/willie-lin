@@ -68,3 +68,4 @@ Here are some ideas to get you started:
 
 ### Visitors
  ![Visitor Count](https://profile-counter.glitch.me/willie-lin/count.svg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/23094730/154053874-52aec201-ffe8-4be3-8925-244f646b8b4b.svg)
