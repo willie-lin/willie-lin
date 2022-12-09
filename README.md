@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-%234285F4?style=flat-square&logo=google-ads&logoColor=ffffff)
 
 
-## Languages and Tools:**  
+## Languages and Tools:
 <table border="0">
   <td>
     <a href="https://github.com/willie-lin">
